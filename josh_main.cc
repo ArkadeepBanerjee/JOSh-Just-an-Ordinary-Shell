@@ -1,11 +1,4 @@
-/************************************************************************  
- *  JOSH (Just an Ordinary Shell)- an initiative under compulsion by
- *  a student of Indian Statistical Institute, Kolkata, India, namely
- *  Arkadeep Banerjee  
- *  None of the Code is copyrighted or copylefted by any known or unknown license  
- *  on this planet, so its totally up to you what you want to do with this piece of code.
- *  Honorable Mentions will be appreciated however. ;)
- ************************************************************************/
+
 
 #include"josh_main.hh"
 
