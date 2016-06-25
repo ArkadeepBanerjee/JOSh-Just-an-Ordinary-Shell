@@ -1,5 +1,5 @@
 
-JOSH (Hindi for Spirit)
+JOSH - Hindi for SPIRIT (not the alcohol kind, but rather the zeal thingy)
 ------------------------------------------------------------------------------------------
 JOSH (Just an Ordinary Shell)- an initiative under compulsion by
 a student of Indian Statistical Institute, Kolkata, India, namely
